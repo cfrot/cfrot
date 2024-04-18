@@ -4,7 +4,6 @@ Futuro Desenvolvedor Full Stack cursando Ciência da Computação na Estácio de
 
 #### 👨‍💻 Linguagens - Frameworks - Tecnologias - Ferramentas  🛠
 
-[![Csharp](https://img.shields.io/badge/CSharp-%230D1117?style=for-the-badge&labelColor=%23414141&logo=c-sharp&logoColor=823085)]
 [![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&labelColor=%23414141&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&labelColor=%23414141&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&labelColor=%23414141&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -22,8 +21,7 @@ Futuro Desenvolvedor Full Stack cursando Ciência da Computação na Estácio de
 [![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0?style=flat-square&labelColor=%23414141&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Angular](https://img.shields.io/badge/Angular-%23DE3641?style=flat-square&labelColor=%23414141&logo=angular&logoColor=white)](https://angular.io/)
 [![Inglês](https://img.shields.io/badge/Inglês-%2300A86B?style=flat-square&labelColor=%23414141&logoColor=white)](https://www.englishclub.com/)
-
+[![Csharp](https://img.shields.io/badge/CSharp-%230D1117?style=for-the-badge&labelColor=%23414141&logo=c-sharp&logoColor=823085)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 #### 📫 Você pode me encontrar em:
-[Perfil DIO](https://web.dio.me/users/danielschneider_dl)
-[LinkedIn](https://www.linkedin.com/in/daniel-pacheco-3484a125b/)
-
+[![Perfil DIO](https://web.dio.me/users/danielschneider_dl)](https://web.dio.me/home)
+[![LinkedIn](https://www.linkedin.com/in/daniel-pacheco-3484a125b/)](https://www.linkedin.com/feed/)
