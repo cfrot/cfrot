@@ -4,7 +4,7 @@ Futuro Desenvolvedor Full Stack cursando Ciência da Computação na Estácio de
 
 #### 👨‍💻 Linguagens - Frameworks - Tecnologias - Ferramentas  🛠
 
-[![Csharp](https://img.shields.io/badge/CSharp-%230D1117?style=for-the-badge&labelColor=%23414141&logo=c-sharp&logoColor=823085)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Csharp](https://img.shields.io/badge/CSharp-%230D1117?style=for-the-badge&labelColor=%23414141&logo=c-sharp&logoColor=823085)]
 [![C++](https://img.shields.io/badge/C++-%2300599C?style=flat-square&labelColor=%23414141&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&labelColor=%23414141&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&labelColor=%23414141&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
